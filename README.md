@@ -178,17 +178,6 @@ We'd rather be upfront about what is and isn't real yet.
 - [ ] Real authentication
 
 ---
-
-## Team Semicolon
-
-| Module | Owner |
-|---|---|
-| Scanner / discovery engine | Vaishnavi (initial Python/Java/C version by Snigdha) |
-| CBOM generation, classification, recommendations | Snigdha |
-| Risk engine (Mosca, scoring) | Samridhi |
-| Backend API + database | Mansi |
-| Frontend / dashboard | Antriksha & Anisha |
-
 ## References
 
 Standards and sources used by the project are listed on the in-app **References** page. Key ones: NIST FIPS 203/204 (ML-KEM, ML-DSA), NIST SP 800-53, NIST IR 8547, NSA CNSA 2.0, CycloneDX 1.6, and the QARS quantum-risk-scoring literature.
