@@ -12,7 +12,3 @@ Generates a Cryptographic Bill of Materials (CycloneDX) and compliance coverage 
 ## Dashboard
 Overview of findings, readiness score, and an interactive topology graph.
 
-## Notes
-- Runs entirely in the browser.
-- Uses sample data for demonstration.
-- Prototype built for Smart India Hackathon 2026.
